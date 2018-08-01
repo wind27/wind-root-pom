@@ -20,7 +20,7 @@
             </roles>
         </developer>
     </developers>
-    <distributionManagement>
+    <!--<distributionManagement>
         <repository>
             <id>releases</id>
             <url>http://nexus:8081/repository/maven-central/</url>
@@ -29,7 +29,7 @@
             <id>snapshots</id>
             <url>http://nexus:8081/repository/maven-snapshots/</url>
         </snapshotRepository>
-    </distributionManagement>
+    </distributionManagement>-->
     <scm>
         <developerConnection>scm:git:git@github.com:wind27/wind-root-pom.git</developerConnection>
         <tag>release</tag>
