@@ -12,7 +12,7 @@ target
 *.iml
 *.ipr
 *.iws
-/.idea
+.idea
 /src/main/webapp/download
 log
 */.DS_Store
