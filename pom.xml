@@ -34,7 +34,7 @@
         <developerConnection>scm:git:git@github.com:wind27/wind-root-pom.git</developerConnection>
         <tag>release</tag>
     </scm>
-    <build>
+    <!--<build>
         <defaultGoal>package</defaultGoal>
         <resources>
             <resource>
@@ -162,7 +162,7 @@
                         <compilerArguments>
                             <sourcepath>${project.build.sourceDirectory}</sourcepath>
                         </compilerArguments>
-                        <!--<executable>${env.JAVA_HOME}/bin/javac</executable>-->
+                        &lt;!&ndash;<executable>${env.JAVA_HOME}/bin/javac</executable>&ndash;&gt;
                     </configuration>
                 </plugin>
                 <plugin>
@@ -283,8 +283,8 @@
                 <version>2.8</version>
             </plugin>
         </plugins>
-    </build>
-    <reporting>
+    </build>-->
+    <!--<reporting>
         <plugins>
             <plugin>
                 <groupId>org.codehaus.mojo</groupId>
@@ -307,7 +307,7 @@
                 <version>2.8</version>
             </plugin>
         </plugins>
-    </reporting>
+    </reporting>-->
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
