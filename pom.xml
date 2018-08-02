@@ -34,6 +34,9 @@
         <developerConnection>scm:git:git@github.com:wind27/wind-root-pom.git</developerConnection>
         <tag>release</tag>
     </scm>
+    <build>
+        <defaultGoal>package</defaultGoal>
+    </build>
     <!--<build>
         <defaultGoal>package</defaultGoal>
         <resources>
