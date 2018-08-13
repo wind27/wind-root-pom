@@ -1036,6 +1036,11 @@
                 <artifactId>dubbo-spring-boot-starter</artifactId>
                 <version>${dubbo-spring-boot}</version>
             </dependency>
+            <dependency>
+                <groupId>org.springframework.boot</groupId>
+                <artifactId>spring-boot-starter-amqp</artifactId>
+                <version>${dubbo-spring-boot}</version>
+            </dependency>
 
             <!-- spring -->
             <dependency>
