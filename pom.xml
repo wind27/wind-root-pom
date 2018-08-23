@@ -24,11 +24,11 @@
     <distributionManagement>
         <repository>
             <id>releases</id>
-            <url>http://dev.wind.com/nexus/repository/maven-public/</url>
+            <url>http://nexus/nexus/repository/maven-public/</url>
         </repository>
         <snapshotRepository>
             <id>snapshots</id>
-            <url>http://dev.wind.com/nexus/repository/maven-snapshots/</url>
+            <url>http://nexus/nexus/repository/maven-snapshots/</url>
         </snapshotRepository>
     </distributionManagement>
     <scm>
