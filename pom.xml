@@ -435,7 +435,7 @@
         <apache-zookeeper-version>3.4.8</apache-zookeeper-version>
         <curator-framework-version>2.12.0</curator-framework-version>
         <dubbo-spring-boot>2.0.0</dubbo-spring-boot>
-        <spring-cloud.version>Finchley.SR1</spring-cloud.version>
+        <spring-cloud-version>Finchley.SR1</spring-cloud-version>
         <spring-cloud-eureka-version>2.0.1.RELEASE</spring-cloud-eureka-version>
     </properties>
     <dependencyManagement>
@@ -1052,7 +1052,7 @@
             <dependency>
                 <groupId>org.springframework.cloud</groupId>
                 <artifactId>spring-cloud-dependencies</artifactId>
-                <version>${spring-cloud.version}</version>
+                <version>${spring-cloud-version}</version>
                 <type>pom</type>
                 <scope>import</scope>
             </dependency>
@@ -1296,14 +1296,6 @@
                 <groupId>com.wind</groupId>
                 <artifactId>wind-commons</artifactId>
                 <version>${snapshot-version}</version>
-            </dependency>
-
-            <dependency>
-                <groupId>org.springframework.cloud</groupId>
-                <artifactId>spring-cloud-dependencies</artifactId>
-                <version>${spring-cloud.version}</version>
-                <type>pom</type>
-                <scope>import</scope>
             </dependency>
         </dependencies>
     </dependencyManagement>
