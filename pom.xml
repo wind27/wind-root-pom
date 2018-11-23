@@ -437,6 +437,9 @@
         <dubbo-spring-boot>2.0.0</dubbo-spring-boot>
         <spring-cloud-version>Finchley.SR1</spring-cloud-version>
         <spring-cloud-eureka-version>2.0.1.RELEASE</spring-cloud-eureka-version>
+
+        <thumbnailator-version>2.0.1.RELEASE</thumbnailator-version>
+        <powermock-version>1.6.3</powermock-version>
     </properties>
     <dependencyManagement>
         <dependencies>
@@ -780,6 +783,31 @@
                 <artifactId>junit</artifactId>
                 <version>${junit-version}</version>
                 <scope>test</scope>
+            </dependency>
+
+            <dependency>
+                <groupId>org.powermock</groupId>
+                <artifactId>powermock-module-junit4</artifactId>
+                <scope>test</scope>
+                <version>${powermock-version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.powermock</groupId>
+                <artifactId>powermock-core</artifactId>
+                <scope>test</scope>
+                <version>${powermock-version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.powermock</groupId>
+                <artifactId>powermock-api-mockito</artifactId>
+                <scope>test</scope>
+                <version>${powermock-version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.powermock</groupId>
+                <artifactId>powermock-module-junit4</artifactId>
+                <scope>test</scope>
+                <version>${powermock-version}</version>
             </dependency>
 
             <!-- freemarker -->
@@ -1284,6 +1312,15 @@
                 <groupId>org.apache.shiro</groupId>
                 <artifactId>shiro-cas</artifactId>
                 <version>${shiro-version}</version>
+            </dependency>
+
+
+            <!-- google -->
+            <!-- 图片压缩工具 -->
+            <dependency>
+                <groupId>net.coobird</groupId>
+                <artifactId>thumbnailator</artifactId>
+                <version>${thumbnailator-version}</version>
             </dependency>
 
             <!-- wind -->
