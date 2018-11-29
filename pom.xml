@@ -437,8 +437,7 @@
         <dubbo-spring-boot>2.0.0</dubbo-spring-boot>
         <spring-cloud-version>Finchley.SR1</spring-cloud-version>
         <spring-cloud-eureka-version>2.0.1.RELEASE</spring-cloud-eureka-version>
-
-        <thumbnailator-version>2.0.1.RELEASE</thumbnailator-version>
+        <thumbnailator-version>0.4.8</thumbnailator-version>
         <powermock-version>1.6.3</powermock-version>
     </properties>
     <dependencyManagement>
