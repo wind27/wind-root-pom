@@ -361,7 +361,7 @@
         <kaptcha-version>0.0.9</kaptcha-version>
         <jackson-version>1.9.13</jackson-version>
         <commons-fluent-hc-version>4.5.1</commons-fluent-hc-version>
-        <jackson-dataformat-xml-version>2.6.3</jackson-dataformat-xml-version>
+        <jackson-dataformat-xml-version>2.7.8</jackson-dataformat-xml-version>
         <c3p0-version>0.9.1.2</c3p0-version>
         <mmseg4j-core-version>1.10.0</mmseg4j-core-version>
         <geoip2-version>2.3.1</geoip2-version>
