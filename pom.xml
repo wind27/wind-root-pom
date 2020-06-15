@@ -420,7 +420,7 @@
         <commons-httpcore-version>4.4.4</commons-httpcore-version>
         <transaction-version>1.1</transaction-version>
         <spring-data-elasticsearch-version>2.1.7.RELEASE</spring-data-elasticsearch-version>
-        <hibernate-validator-version>5.2.2.Final</hibernate-validator-version>
+        <hibernate-validator-version>5.3.5.Final</hibernate-validator-version>
         <elasticsearch-version>2.0.0</elasticsearch-version>
         <apache-poi-version>3.13</apache-poi-version>
         <jedis-version>2.9.0</jedis-version>
