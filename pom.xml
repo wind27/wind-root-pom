@@ -351,7 +351,7 @@
         <xml-apis-ext-version>1.3.04</xml-apis-ext-version>
         <xml-apis-version>1.4.01</xml-apis-version>
         <nekohtml-version>1.9.22</nekohtml-version>
-        <quartz-scheduler-version>2.2.2</quartz-scheduler-version>
+        <quartz-scheduler-version>2.3.2</quartz-scheduler-version>
         <jasypt-version>1.9.2</jasypt-version>
         <drools-version>6.3.0.Final</drools-version>
         <xerces-version>2.11.0</xerces-version>
