@@ -411,7 +411,7 @@
         <pager-taglib-version>2.0</pager-taglib-version>
         <commons-lang3-version>3.4</commons-lang3-version>
         <commons-lang-version>2.6</commons-lang-version>
-        <junit-version>4.12</junit-version>
+        <junit-version>4.13.1</junit-version>
         <solr-solrj-version>5.3.1</solr-solrj-version>
         <fastjson-version>1.2.38</fastjson-version>
         <mysql-connector-java-version>5.1.44</mysql-connector-java-version>
