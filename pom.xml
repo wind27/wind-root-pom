@@ -422,7 +422,7 @@
         <spring-data-elasticsearch-version>2.1.7.RELEASE</spring-data-elasticsearch-version>
         <hibernate-validator-version>5.2.2.Final</hibernate-validator-version>
         <elasticsearch-version>2.0.0</elasticsearch-version>
-        <apache-poi-version>3.13</apache-poi-version>
+        <apache-poi-version>4.1.2</apache-poi-version>
         <jedis-version>2.9.0</jedis-version>
         <spring-data-redis-version>2.1.5.RELEASE</spring-data-redis-version>
         <pinyin4j-version>2.5.0</pinyin4j-version>
