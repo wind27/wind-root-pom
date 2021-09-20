@@ -366,7 +366,7 @@
         <mmseg4j-core-version>1.10.0</mmseg4j-core-version>
         <geoip2-version>2.3.1</geoip2-version>
         <persistence-version>2.1</persistence-version>
-        <shiro-version>1.2.4</shiro-version>
+        <shiro-version>1.8.0</shiro-version>
         <commons-beanutils-version>1.9.2</commons-beanutils-version>
         <cglib-version>3.2.0</cglib-version>
         <ibatis-sqlmap-version>2.3.4.726</ibatis-sqlmap-version>
