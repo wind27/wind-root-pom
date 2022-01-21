@@ -330,7 +330,7 @@
         <jarTarget>target</jarTarget>
 
         <mysql-connector-mxj-version>5.0.12</mysql-connector-mxj-version>
-        <h2-version>1.4.190</h2-version>
+        <h2-version>2.1.210</h2-version>
         <json-path-version>2.0.0</json-path-version>
         <jackson-databind-version>2.6.3</jackson-databind-version>
         <hashids-version>1.0.1</hashids-version>
