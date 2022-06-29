@@ -396,7 +396,7 @@
         <jstl-version>1.2</jstl-version>
         <mail-version>1.4.4</mail-version>
         <jsoup-version>1.8.3</jsoup-version>
-        <slf4j-version>1.7.12</slf4j-version>
+        <slf4j-version>1.7.26</slf4j-version>
         <amqp-client-version>4.0.2</amqp-client-version>
         <spring-data-mongo-version>1.10.7.RELEASE</spring-data-mongo-version>
         <querydsl-mongodb-version>3.6.9</querydsl-mongodb-version>
