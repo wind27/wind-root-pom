@@ -372,7 +372,7 @@
         <ibatis-sqlmap-version>2.3.4.726</ibatis-sqlmap-version>
         <jackson-mapper-asl-version>1.9.13</jackson-mapper-asl-version>
         <activation-version>1.1.1</activation-version>
-        <spring-version>5.1.4.RELEASE</spring-version>
+        <spring-version>5.2.21.RELEASE</spring-version>
         <commons-configuration-version>1.10</commons-configuration-version>
         <commons-pool2-version>2.4.2</commons-pool2-version>
         <dom4j-version>1.6.1</dom4j-version>
