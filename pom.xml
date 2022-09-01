@@ -395,7 +395,7 @@
         <commons-validator-version>1.4.1</commons-validator-version>
         <jstl-version>1.2</jstl-version>
         <mail-version>1.4.4</mail-version>
-        <jsoup-version>1.8.3</jsoup-version>
+        <jsoup-version>1.15.3</jsoup-version>
         <slf4j-version>1.7.12</slf4j-version>
         <amqp-client-version>4.0.2</amqp-client-version>
         <spring-data-mongo-version>1.10.7.RELEASE</spring-data-mongo-version>
